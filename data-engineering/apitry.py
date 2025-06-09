@@ -1,4 +1,4 @@
-import request
+import requests
 import xml.etree.ElementTree as ET
 
 # WHO Athena API URL for Tuberculosis data
